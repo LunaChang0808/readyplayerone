@@ -1,0 +1,14 @@
+{
+  "name": "273004a7ddb69f60",
+  "main": "273004a7ddb69f60@88.js",
+  "version": "88.0.0",
+  "homepage": "https://observablehq.com/d/273004a7ddb69f60",
+  "author": {
+    "name": "LunaZhang",
+    "url": "https://observablehq.com/@lunachang0808"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
